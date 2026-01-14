@@ -28,6 +28,6 @@ The project is organized into modular components as per software engineering bes
 1. **Compilation:**
    ```bash
    gcc -I include src/main.c src/linkedlist.c src/blockchain.c src/ledger.c -o blockchain
-2. **Execution:"**    
+2. **Execution:**    
    ```bash
    blockchain.exe
